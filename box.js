@@ -9,7 +9,7 @@ class Box
     
     show()
     {
-      circle(this.x,this.y,this.r)
+      circ(this.x,this.y,this.r)
     }
     
     //write function to set the width of the box
